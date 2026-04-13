@@ -1,3 +1,6 @@
+//Nome: Marcos Schuart Nobre de Lima Palhares
+//Matrícula: 1261931350
+
 public class App {
 // 1. A Assinatura
 public static int maior(int a, int b) {
